@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "runTests",
+      "setup": "",
+      "run": "/bin/bash ./runTests.sh",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": null
+    }
+  ]
+}
